@@ -1,6 +1,6 @@
 # Perfil de la Organización - SimCodec
 
-[![simcodec Banner](https://capsule-render.vercel.app/render?type=soft&color=gradient&height=180&section=header&text=simcodec&fontSize=80&animation=twinkling&fontAlignY=50)](https://github.com/simcodec)
+![simcodec Banner](simcodec_banner.jpg)
 
 <h3 align="center">💻 Desarrollo de software, redes, videovigilancia e inteligencia artificial</h3>
 <p align="center">
