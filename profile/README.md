@@ -1,10 +1,10 @@
 # Perfil de la Organización - SimCodec
 
-![simcodec Banner](simcodec_banner.jpg)
+![SimCodec: Software, IA, redes y CCTV para empresas en Quito](simcodec_banner.png)
 
-<h3 align="center">💻 Desarrollo de software, redes, videovigilancia e inteligencia artificial</h3>
+<h3 align="center">💻 Software, IA, redes y CCTV para empresas 🇪🇨</h3>
 <p align="center">
-  <strong>Transformamos ideas en soluciones integrales para empresas e instituciones del Ecuador.</strong>
+  <strong>📍 Quito · Soluciones a medida · 💬 Cotiza gratis por WhatsApp <a href="https://wa.me/593997266838">+593 99 726 6838</a></strong>
 </p>
 
 <p align="center">
@@ -53,11 +53,15 @@ Si formas parte del equipo de SimCodec o deseas colaborar en uno de nuestros pro
 ---
 
 ### 📞 Contacto y Redes
+*   💬 **WhatsApp:** [+593 99 726 6838](https://wa.me/593997266838?text=Hola%20SimCodec%2C%20quiero%20cotizar%20un%20proyecto%20(GitHub))
 *   📧 **Correo Electrónico:** [info@simcod.ec](mailto:info@simcod.ec)
-*   🌐 **Sitio Web Oficial:** [simcod.ec](https://simcod.ec)
-*   📍 **Dirección:** Av. Pedro Vicente Maldonado y Manuela Sáenz, Quito, Ecuador
-*   📱 **Socials:** 
+*   🌐 **Sitio Web Oficial:** [simcod.ec](https://simcod.ec/?utm_source=github&utm_medium=social&utm_campaign=perfil)
+*   📍 **Dirección:** Av. Mariscal Sucre y Carlos Bonilla, Quito, Ecuador
+*   📱 **Redes:** 
     [Instagram](https://www.instagram.com/sim_codec) | 
-    [Facebook](https://www.facebook.com/SimCodec) | 
+    [Facebook](https://www.facebook.com/839416039245522) | 
+    [LinkedIn](https://www.linkedin.com/company/simcodec/) | 
     [TikTok](https://www.tiktok.com/@simcodec) | 
-    [YouTube](https://www.youtube.com/@SIMCODEC)
+    [YouTube](https://www.youtube.com/@SIMCODEC) | 
+    [X](https://x.com/SimCodec) | 
+    [Todos los enlaces](https://simcod.ec/es/links/)
