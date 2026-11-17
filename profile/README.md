@@ -59,7 +59,7 @@ Si formas parte del equipo de SimCodec o deseas colaborar en uno de nuestros pro
 *   📍 **Dirección:** Av. Mariscal Sucre y Carlos Bonilla, Quito, Ecuador
 *   📱 **Redes:** 
     [Instagram](https://www.instagram.com/sim_codec) | 
-    [Facebook](https://www.facebook.com/839416039245522) | 
+    [Facebook](https://www.facebook.com/SimCodec) | 
     [LinkedIn](https://www.linkedin.com/company/simcodec/) | 
     [TikTok](https://www.tiktok.com/@simcodec) | 
     [YouTube](https://www.youtube.com/@SIMCODEC) | 
